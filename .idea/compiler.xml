@@ -7,7 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="dao" />
-        <module name="ws" />
+        <module name="ws-soap" />
         <module name="domain" />
         <module name="service" />
       </profile>
