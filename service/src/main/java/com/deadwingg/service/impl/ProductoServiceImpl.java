@@ -24,4 +24,9 @@ public class ProductoServiceImpl implements ProductoService {
         Producto p = new Producto(descripcion, codigo, precio);
         dao.addProducto(p);
     }
+
+    @Override
+    public void addProducto(Producto p) {
+        dao.addProducto(p);
+    }
 }

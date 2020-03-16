@@ -12,7 +12,8 @@
     <module>domain</module>
     <module>service</module>
     <module>dao</module>
-    <module>ws</module>
+    <module>ws-soap</module>
+    <module>jersey-rest</module>
   </modules>
 
   <name>productos</name>
